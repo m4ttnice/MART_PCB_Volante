@@ -1,0 +1,27 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>U:\MART\PCB_InputsVolante\Inputs_Volante\Inputs_Volante.sch</h1>
+    <p>24/04/2021 20:17:33</p>
+    <p>Eeschema (5.1.8)-1</p>
+    <p><b>Component Count:</b>13</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>A1</td><td>1</td><td>Arduino_Nano_v3.x</td><td>MCU_Module:Arduino_Nano_v3.x</td><td>Module:Arduino_Nano</td><td>Arduino Nano v3.x</td><td></td></tr>
+    <tr><td>FID1, FID2, FID3, FID4</td><td>4</td><td>Fiducial</td><td>Mechanical:Fiducial</td><td>Fiducial:Fiducial_0.5mm_Mask1.5mm</td><td>Fiducial Marker</td><td></td></tr>
+    <tr><td>J1</td><td>1</td><td>Conn_01x02_Male</td><td>Connector:Conn_01x02_Male</td><td>Connector_Molex:Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal</td><td>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J2</td><td>1</td><td>Conn_01x04_Male</td><td>Connector:Conn_01x04_Male</td><td>Connector_Molex:Molex_Nano-Fit_105313-xx04_1x04_P2.50mm_Horizontal</td><td>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J3</td><td>1</td><td>Conn_01x06_Male</td><td>Connector:Conn_01x06_Male</td><td>Connector_Molex:Molex_Nano-Fit_105313-xx06_1x06_P2.50mm_Horizontal</td><td>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J4, J5</td><td>2</td><td>Conn_01x03_Male</td><td>Connector:Conn_01x03_Male</td><td>Connector_Molex:Molex_Nano-Fit_105313-xx03_1x03_P2.50mm_Horizontal</td><td>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>JP1, JP2</td><td>2</td><td>SolderJumper_3_Open</td><td>Jumper:SolderJumper_3_Open</td><td></td><td>Solder Jumper, 3-pole, open</td><td></td></tr>
+    <tr><td>JP3</td><td>1</td><td>SolderJumper_2_Open</td><td>Jumper:SolderJumper_2_Open</td><td></td><td>Solder Jumper, 2-pole, open</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

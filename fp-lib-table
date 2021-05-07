@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Inputs_Volante)(type KiCad)(uri ${KIPRJMOD}/Inputs_Volante.pretty)(options "")(descr ""))
+)
